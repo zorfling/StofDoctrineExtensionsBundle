@@ -21,7 +21,7 @@
         "doctrine/mongodb-odm-bundle": "to use the MongoDB ODM extensions"
     },
     "autoload": {
-        "psr-4": { "Stof\\DoctrineExtensionsBundle": "Stof/DoctrineExtensionsBundle" }
+        "psr-4": { "Stof\\DoctrineExtensionsBundle\\": "Stof/DoctrineExtensionsBundle" }
     },
     "extra": {
         "branch-alias": {
